@@ -10,3 +10,6 @@ This repository contains problems that were prepared by me and that were publish
 | 5 | [Link](https://codeforces.com/contestInvitation/cfc34dbaf2dde35554bf365b0b08eb5f43d63a60) (D) | Medium| Implementation | [Link](5.cpp) |
 | 6 | [Link](https://codeforces.com/contestInvitation/cfc34dbaf2dde35554bf365b0b08eb5f43d63a60) (F) | Hard| Math, Number theory | [Link](6.cpp) |
 | 7 | [Link](https://codeforces.com/contestInvitation/cfc34dbaf2dde35554bf365b0b08eb5f43d63a60) (G) | Medium| Recursion | [Link](7.cpp) |
+| 8 | [Link](https://www.hackerrank.com/contests/eid-ul-adha-junior-programming-contest/challenges/alabolas-future) | Basic | Number theory | [Link](8.cpp) |
+| 9 | [Link](https://www.hackerrank.com/contests/eid-ul-adha-junior-programming-contest/challenges/puss-in-boots) | Medium | Implementation | [Link](9.cpp) |
+| 10 | [Link](https://www.hackerrank.com/contests/eid-ul-adha-junior-programming-contest/challenges/another-coloring-problem) | Medium | DFS & Similar | [Link](10.cpp) |
