@@ -9,3 +9,4 @@ This repository contains problems that were prepared by me and that were publish
 | 4 | [Link](https://codeforces.com/contestInvitation/cfc34dbaf2dde35554bf365b0b08eb5f43d63a60) (C) | Easy| string | [Link](4.cpp) |
 | 5 | [Link](https://codeforces.com/contestInvitation/cfc34dbaf2dde35554bf365b0b08eb5f43d63a60) (D) | Medium| Implementation | [Link](5.cpp) |
 | 6 | [Link](https://codeforces.com/contestInvitation/cfc34dbaf2dde35554bf365b0b08eb5f43d63a60) (F) | Hard| Math, Number theory | [Link](6.cpp) |
+| 7 | [Link](https://codeforces.com/contestInvitation/cfc34dbaf2dde35554bf365b0b08eb5f43d63a60) (G) | Medium| Recursion | [Link](7.cpp) |
