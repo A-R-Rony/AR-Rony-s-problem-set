@@ -17,3 +17,6 @@ This repository contains problems that were prepared by me and that were publish
 | 12 | [Link](https://www.hackerrank.com/contests/nstu-eternity-presents-intra-nstu-new-year-programming-contest-2024/challenges/sorry-bhai) | Hard | Number theory | [Link](12.cpp) |
 | 13 | [Link](https://www.hackerrank.com/contests/nstu-eternity-presents-intra-nstu-new-year-programming-contest-2024/challenges/start-from-staricase) | Hard | Segment Tree | [Link](13.cpp) |
 | 14 | [Link](https://www.hackerrank.com/contests/nstu-eternity-presents-intra-nstu-new-year-programming-contest-2024/challenges/fholafhol-shunno) | Medium | Number theory | [Link](14.cpp) |
+| 15 | [Link](https://www.hackerrank.com/contests/intra-nstu-junior-programming-contest-august-2023/challenges/que-sera-sera) | Hard | DP | [Link](15.cpp) |
+| 16 | [Link](https://www.hackerrank.com/contests/intra-nstu-junior-programming-contest-august-2023/challenges/ila-view) | Easy | Number theory | [Link](16.cpp) |
+| 17 | [Link](https://www.hackerrank.com/contests/intra-nstu-junior-programming-contest-august-2023/challenges/boring-semester) | Medium | Number theory | [Link](17.cpp) |
