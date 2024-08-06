@@ -20,3 +20,4 @@ This repository contains problems that were prepared by me and that were publish
 | 15 | [Link](https://www.hackerrank.com/contests/intra-nstu-junior-programming-contest-august-2023/challenges/que-sera-sera) | Hard | DP | [Link](15.cpp) |
 | 16 | [Link](https://www.hackerrank.com/contests/intra-nstu-junior-programming-contest-august-2023/challenges/ila-view) | Easy | Number theory | [Link](16.cpp) |
 | 17 | [Link](https://www.hackerrank.com/contests/intra-nstu-junior-programming-contest-august-2023/challenges/boring-semester) | Medium | Number theory | [Link](17.cpp) |
+| 18 | [Link](https://www.hackerrank.com/contests/final-selection-contest/challenges/alice-in-borderland) | Medium |Counting| [Link](18.cpp) |
