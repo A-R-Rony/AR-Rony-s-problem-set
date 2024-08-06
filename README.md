@@ -13,3 +13,7 @@ This repository contains problems that were prepared by me and that were publish
 | 8 | [Link](https://www.hackerrank.com/contests/eid-ul-adha-junior-programming-contest/challenges/alabolas-future) | Basic | Number theory | [Link](8.cpp) |
 | 9 | [Link](https://www.hackerrank.com/contests/eid-ul-adha-junior-programming-contest/challenges/puss-in-boots) | Medium | Implementation | [Link](9.cpp) |
 | 10 | [Link](https://www.hackerrank.com/contests/eid-ul-adha-junior-programming-contest/challenges/another-coloring-problem) | Medium | DFS & Similar | [Link](10.cpp) |
+| 11 | [Link](https://www.hackerrank.com/contests/nstu-eternity-presents-intra-nstu-new-year-programming-contest-2024/challenges/professors-query) | Medium | Counting,Digit dp | [Link](11.cpp) |
+| 12 | [Link](https://www.hackerrank.com/contests/nstu-eternity-presents-intra-nstu-new-year-programming-contest-2024/challenges/sorry-bhai) | Hard | Number theory | [Link](12.cpp) |
+| 13 | [Link](https://www.hackerrank.com/contests/nstu-eternity-presents-intra-nstu-new-year-programming-contest-2024/challenges/start-from-staricase) | Hard | Segment Tree | [Link](13.cpp) |
+| 14 | [Link](https://www.hackerrank.com/contests/nstu-eternity-presents-intra-nstu-new-year-programming-contest-2024/challenges/fholafhol-shunno) | Medium | Number theory | [Link](14.cpp) |
